@@ -1,0 +1,15 @@
+paises = ["Tailandia", "Argentina", "Japao", "Italia", "Mexico"]
+
+print(paises)
+print(sorted(paises))
+print(paises)
+print("\n")
+paises.reverse()
+print(paises)
+paises.reverse()
+print(paises)
+print("\n")
+paises.sort()
+print(paises)
+paises.sort(reverse=True)
+print(paises)

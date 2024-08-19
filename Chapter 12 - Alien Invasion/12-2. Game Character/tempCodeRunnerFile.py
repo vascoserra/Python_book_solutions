@@ -1,0 +1,1 @@
+self.ship = Ship(self)

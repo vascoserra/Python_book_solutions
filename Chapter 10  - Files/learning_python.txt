@@ -1,0 +1,6 @@
+In Python you can do loops
+In Python you can create lists
+In Python you can create games
+In Python you can do data science
+In Python you can make everything
+In Python you can make dictionaries
